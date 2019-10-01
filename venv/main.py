@@ -145,5 +145,6 @@ def TacheG():
 
     print('fin')
 
-
+TachesABCD()
 TachesEFIH()
+TachesG()
